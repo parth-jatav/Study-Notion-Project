@@ -6,6 +6,8 @@ StudyNotion is a fully functional ed-tech platform built using the MERN stack (M
 
 You can check out the live version of the project here: [Study Notion Project](https://study-notion-project-woad.vercel.app/)
 
+<img src ="Study-notion.png">
+
 ## Features 🚀
 
 ### For Students:
